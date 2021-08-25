@@ -1,1 +1,2 @@
-# -Catalog-of-games-using-architecture.NET
+# 
+Game catalog using architectural best practices with .NET
